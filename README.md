@@ -18,8 +18,6 @@ Are there more fatal crashes on weekdays or weekends?
 
 Which road users were most  impacted by crashes?
 
-In Victoria, which gender crashes the most men or women? 
-
 In Victoria, which gender has the most fatal crashes?  
 
 Which driver age group causes the most fatalities? 
