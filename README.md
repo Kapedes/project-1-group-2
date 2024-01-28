@@ -4,6 +4,8 @@ Dataset: The Australian Road Deaths Database provides basic details of road tran
 
 'Insights and analysis of crash statistics in Australia' - presentation file 
 
+Refer also to Project_1_Final
+
 Summarises key finding and insights of fatalities from crashes within Austrlia.
 
 What road type had the most fatalities? 
