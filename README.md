@@ -36,6 +36,9 @@ When the data was normalised it showed that the age group between ‘17 to 25’
 
 Which state has the most fatalities per capita (population)? 
 
+Using an API to derive the population of the state and territorries of Australia. It was found that Northern Territory had the highest proportion of fatalities from crashes on a per capita basis. NSW and VIC had the highest number of fatal crashes but when normalised the proportion was lower per capita.
+
+
 
 
 
