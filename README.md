@@ -22,6 +22,7 @@ Have the number of fatalities from crashes changed over time?
 Are there more fatal crashes on weekdays or weekends?
 
 Which road users were most  impacted by crashes?
+
 The road user which was most impacted by fatal crashes was the driver (45.1%) of all fatalities followed by the passenger (23.1%) and then by  pedestrians (15.6%).
 
 In Victoria, which gender has the most fatal crashes?  
