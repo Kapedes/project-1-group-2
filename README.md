@@ -31,6 +31,9 @@ There was a higher proportion of fatal crashes involving male drivers compared t
 
 Which driver age group causes the most fatalities? 
 
+When the data was normalised it showed that the age group between ‘17 to 25’ accounted for more than one third of crashes. The next two largest respectively were ‘26 to 39’ and ‘40 to 64’ age groups. Younger age groups are more prone to speeding except for the ‘0 to 16 age group’ who supervised whilst on learners permits.
+
+
 Which state has the most fatalities per capita (population)? 
 
 
