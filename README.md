@@ -1,5 +1,7 @@
 # project-1-group-2
 
+Group Members: Carolina Ramos, Marianne O'Reilly, Ip, Hoi Kong (Roy), Theo Demetriou
+
 Dataset: The Australian Road Deaths Database provides basic details of road transport crash fatalities in Australia as reported by the police each month to the State and Territory road safety authorities.
 
 'Insights and analysis of crash statistics in Australia' - presentation file 
